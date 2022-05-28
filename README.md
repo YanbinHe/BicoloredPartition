@@ -1,4 +1,4 @@
-# BicoloredPartition
+# Dynamic Bi-Colored Graph Partitioning
 
 Code for EUSIPCO 2022 'Dynamic Bi-Colored Graph Partitioning'
 
