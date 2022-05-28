@@ -1,4 +1,4 @@
-% reproducible code
+% reproducible code for paper 'Dynamic Bi-Colored Graph Partitioning'
 
 % run simulation method
 % This code should be loaded first 
