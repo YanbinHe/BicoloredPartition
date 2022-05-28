@@ -1,4 +1,4 @@
-% reproducible code
+% reproducible code for paper 'Dynamic Bi-Colored Graph Partitioning'
 
 %Part of these functions are based on the well-known GSP_Toolbox
 %https://epfl-lts2.github.io/gspbox-html/
